@@ -6,3 +6,5 @@ Dipendenze
 - curl
 - cairo
 - conky
+- pacman-contrib
+- pikaur
